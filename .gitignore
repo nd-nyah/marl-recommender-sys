@@ -1,0 +1,76 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Jupyter Notebook checkpoints
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# ML / Training Outputs
+# =========================
+checkpoints/
+logs/
+results/
+
+# =========================
+# Dataset
+# =========================
+data/
+
+# =========================
+# TensorBoard
+# =========================
+runs/
+tensorboard/
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# PyTorch / model artifacts
+# =========================
+*.pt
+*.pth
+*.ckpt
+
+# =========================
+# Coverage / testing
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/
+
+# =========================
+# Environment variables
+# =========================
+.env
+
+# =========================
+# temporary ignores
+# =========================
+pyproject.toml
+configs/
