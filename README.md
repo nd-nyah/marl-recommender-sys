@@ -9,7 +9,7 @@ This framework explores how multiple agents interact within simulated environmen
 # Notice
 Built for research and experimental development in multi-agent reinforcement learning (MARL).
 
-For questions or collaboration:
+For questions or discussion:
 Author: https://www.linkedin.com/in/dr-ndifreke-nyah-phd-2040ba91/
 
 # License
